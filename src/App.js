@@ -7,7 +7,7 @@ import { useState } from 'react';
 
 function App() {
 
-  const [numClics, setNumClics] = useState(0);
+  const [numClics, setNumClics] = useState(0); //useState:Hook que permite agregar estado a un componente funcional (hay que importarlo)
 
   const manejarClic = () => {
     setNumClics(numClics + 1);

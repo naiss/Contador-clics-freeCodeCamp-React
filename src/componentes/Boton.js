@@ -11,4 +11,4 @@ function Boton({ texto, esBotonDeClic, manejarClic /*sintaxis de desestructuraci
   );
 }
 
-export default Boton; //con la exportación por defecto, solo se puede exportar un elemento del archivo, en este caso, el botón
+export default Boton; //con la exportación por defecto, solo se puede exportar un elemento del archivo, en este caso, el botón0
